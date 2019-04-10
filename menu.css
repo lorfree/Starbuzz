@@ -1,0 +1,42 @@
+/* CSS Document */
+body {
+	background: tan; 
+}
+
+#content {
+	width: 70%;
+    margin: auto;
+    padding: 10px;
+}
+
+h1 
+
+h2 
+
+p 
+.price {
+	color: green;
+}
+
+#contacte {
+	text-align: center;
+	padding: 40px;
+	font-size: 150%;
+	
+}
+
+a:link {
+	color:saddlebrown;
+	text-decoration: none;
+	
+}
+
+a:visited {
+	color:saddlebrown;
+	text-decoration: none;
+}
+
+a:hover {
+	color: brown;
+	text-decoration: underline;
+}
