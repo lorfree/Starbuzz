@@ -1,0 +1,35 @@
+/* CSS Document */
+
+
+#container div {
+	height: 25px;
+	border-width: 5px;
+	border-style:solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: seashell;
+	
+	
+}
+
+#container {
+	background-color: blanchedalmond;
+	display: flex;
+	justify-content: center;
+	
+}
+
+#Home {
+	border-color: cadetblue;
+	flex-grow: 1;
+}
+
+#Search {
+	border-color: darkseagreen;
+	flex-grow: 2;
+}
+
+#Logout {
+	border-color: indianred;
+	flex-grow: 1;
+}

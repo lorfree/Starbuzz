@@ -1,0 +1,67 @@
+/* CSS Document */
+
+
+body {
+	background-color: rgba(240,229,214);
+}
+
+div {
+	
+	margin:5px;
+	padding: 0.5em;
+}
+
+#header, #footer {
+	background-color: rgba(124,111,91,1.00);
+}
+
+#header {
+	height: 100px;
+	min-width: 600px;
+}
+
+#main, #order, #menu {
+	
+	background-color: rgba(257, 230,223,1.00);
+	clear: both;
+	
+}
+
+#main {
+	flex-grow: 2;
+}
+
+order {
+	flex-grow: 1;
+
+}
+
+#menu {
+	flex-grow:1;
+}
+
+
+#footer {
+	color: white;
+}
+
+h2 {
+	color: brown;
+}
+
+
+#logo {
+	float: left;
+	
+}
+
+#slogan {
+	float: right;
+	
+}
+
+#container {
+	display:flex;
+	
+	
+}
